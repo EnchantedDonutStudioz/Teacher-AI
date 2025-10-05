@@ -1,0 +1,11 @@
+@import url('main/index.css');
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'font';
+    src: url('assets/fonts/inter.ttf');
+}
+
+body {
+    font-family: 'font', sans-serif;
+}
